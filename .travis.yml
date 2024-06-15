@@ -1,4 +1,4 @@
-# telling that we need a super user permission to run this below command
+# telling that we need a super user permission to run this below command.
 sudo: required
 
 # it will install docker in travis
